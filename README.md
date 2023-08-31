@@ -1,4 +1,4 @@
-# Excel Data Analytics Project: US Tech Job Salaries 💵
+# Excel Data Analytics Project: US Tech Job Salaries 💵 💻
 
 ## Scenario
 You are a junior data analyst doing freelance work for AskAManager, an online blog that addresses issues regarding management, interviews, and workplace matters. They ask you to analyze a salary survey response form they released online for people who view their website to fill out. For this specific project, your client wants you to provide key insights within careers in the field of technology in the United States.
