@@ -1,3 +1,3 @@
-# Excel Data Analytics Project: Salary Survey
+# Excel Data Analytics Project: US Tech Job Salaries 💵
 
 ## Scenario
