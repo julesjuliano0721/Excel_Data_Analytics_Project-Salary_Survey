@@ -22,6 +22,9 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
    6. Race/Ethnicity
 
 
+---
+
+
 ### Collecting and Extracting data needed for cleaning
 
  - Used filter tool within COLUMN C (What industry do you work in?) to filter out “Computing Or Tech” Jobs and searched for key words such as “comp” and “tech” using filter to add any jobs that could be generally categorized within the same column considering free form/string was the data type used for this field.
