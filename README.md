@@ -1,1 +1,1 @@
-# Full_Excel_Data_Analytics_Project-Salary_Survey
+# Excel Data Analytics Project: Salary Survey
