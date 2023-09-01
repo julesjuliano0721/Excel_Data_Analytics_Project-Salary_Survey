@@ -39,8 +39,10 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
  - Edited column names to make more readable
  - Job Title (REVISED): Used UPPER function
  - Job Type (ADDED COLUMN):
-    - Our client wanted us to find key insights within these specific fields:
-  
+   
+  - Our client wanted us to find key insights within these specific fields:
+    
+   **Software Development | Data Science and Analytics | Information Technology | Cybersecurity | UX/UI Design | Project Management | Quality Assurance and Testing**
      1. Software Development:
    	 - Software Engineer
   	 - Web Developer
@@ -57,7 +59,7 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
        	 - Machine Learning Engineer
        	 - Data Engineer
        	 - Database Administrator (DBA)
-    3.	Information Technology
+    3.	Information Technology:
        	 - IT Support Specialist
        	 - Systems Administrator
        	 - Network Administrator
