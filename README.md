@@ -51,41 +51,41 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
        	  - Mobile App Developer
       	   - Front-end Developer
    	      - Back-end Developer
-        	 - Full-stack Developer
-     	    - Game Developer
+          - Full-stack Developer
+          - Game Developer
        	  - DevOps Engineer
      2.	Data Science and Analytics:
-        	 - Data Scientist
-        	 - Data Analyst
-        	 - Business Intelligence (BI) Analyst
-        	 - Machine Learning Engineer
-        	 - Data Engineer
-        	 - Database Administrator (DBA)
+          - Data Scientist
+          - Data Analyst
+          - Business Intelligence (BI) Analyst
+          - Machine Learning Engineer
+          - Data Engineer
+          - Database Administrator (DBA)
      3.	Information Technology:
-        	 - IT Support Specialist
-        	 - Systems Administrator
-        	 - Network Administrator
-        	 - IT Help Desk Technician
-        	 - Cloud Engineer
-        	 - Information Security Analyst
+          - IT Support Specialist
+          - Systems Administrator
+          - Network Administrator
+          - IT Help Desk Technician
+          - Cloud Engineer
+          - Information Security Analyst
      4.	Cybersecurity:
-        	 - Cybersecurity Analyst
-        	 - Penetration Tester (Ethical Hacker)
-        	 - Security Operations Center (SOC) Analyst
-       	  - Information Security Manager
+          - Cybersecurity Analyst
+          - Penetration Tester (Ethical Hacker)
+          - Security Operations Center (SOC) Analyst
+          - Information Security Manager
      5.	UX/UI Design:
-        	 - UX Designer (User Experience Designer)
-        	 - UI Designer (User Interface Designer)
-        	 - Interaction Designer
-       	  - User Researcher
+          - UX Designer (User Experience Designer)
+          - UI Designer (User Interface Designer)
+          - Interaction Designer
+          - User Researcher
      6.	Project Management:
-        	 - IT Project Manager
-        	 - Agile Project Manager
-        	 - Scrum Master
+          - IT Project Manager
+          - Agile Project Manager
+          - Scrum Master
      7. Quality Assurance and Testing:
-        	 - Quality Assurance (QA) Engineer
-        	 - Software Tester
-        	 - Test Automation Engineer
+          - Quality Assurance (QA) Engineer
+          - Software Tester
+          - Test Automation Engineer
 
   - LIMITATIONS: Job titles and roles in the tech industry can vary from one company to another, and new roles may emerge as technology continues to advance. Keep in mind that these categories may overlap, and there are many sub-specializations within each category. 
 
