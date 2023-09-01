@@ -87,9 +87,9 @@ ___
           - Test Automation Engineer
 
 
-~
+
      - Added new column called "Job Title" and used filter tool to manually match each type of tech job to the corresponding field that our client provided for us
-     - **LIMITATIONS:** Job titles and roles in the tech industry can vary from one company to another, and new roles may emerge as technology continues to advance. Keep in mind that these categories may overlap, and there are many sub-specializations within each category. Also, to maintain the integrity and quality of the data, only the sub-specializations specifically provided for us above were used, so this left a lot of jobs uncategorized within the dataset.
+     - LIMITATIONS: Job titles and roles in the tech industry can vary from one company to another, and new roles may emerge as technology continues to advance. Keep in mind that these categories may overlap, and there are many sub-specializations within each category. Also, to maintain the integrity and quality of the data, only the sub-specializations specifically provided for us above were used, so this left a lot of jobs uncategorized within the dataset.
 
 
 
