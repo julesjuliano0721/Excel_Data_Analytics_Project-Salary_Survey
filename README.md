@@ -95,21 +95,20 @@ ___
     - Changed format to currency
     - Handling Outliers:
       - **Less than $15k**
-         - investigated and deleted rows that contained salaries less than because the annual salary for people living on minimum wage is about $15k    
-      - **Between $15-$30k**
+         - Investigated and deleted rows that contained salaries less than because the annual salary for people living on minimum wage is about $15k    
+      - **Between $15-$30k and outliers on the higher end of income**
          - Factors/issues considered when deleting outliers:
-            1. median salary of job
-            2. additional external source of income (not full-time work hours inputed as instructed by response form)
-            3. human error (forgot to add additional zero to income)
-            4. level of job title (trainee, assistant would make more sense for a lower-based income compared to a software developer)
-
+            1. Median salary of job
+            2. Additional external source of income (not full-time work hours inputed as instructed by response form)
+            3. Human error (forgot to add additional zero or added a zero to income)
+            4. Level of job title (trainee, assistant would make more sense for a lower-based income compared to a software developer) 
           
  -  "Experience in Field of Work" Column
     - Used "Find and Replace" Tool to clean up structure of each option
 
  - Cleaning and Analyzing "Race/Ethincity (Choose all that apply:):" Column
-    - separated each race into different columns
-    - used COUNTIF Function to calculate each instance a race was chosen
+    - Separated each race into different columns
+    - Used COUNTIF Function to calculate each instance a race was chosen
     - Calculated the sum and percentage of each race and created a table:
   
       
