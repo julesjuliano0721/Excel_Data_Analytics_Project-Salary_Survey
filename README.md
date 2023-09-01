@@ -42,7 +42,7 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
  
  - Job Type (ADDED COLUMN):
 
-  - Our client wanted us to find key insights within these specific fields and their corresponding job titles:    
+    - Our client wanted us to find key insights within these specific fields and their corresponding job titles:    
 
    
       1. Software Development:
