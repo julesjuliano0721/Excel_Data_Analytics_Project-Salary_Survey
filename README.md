@@ -43,6 +43,7 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
   - Our client wanted us to find key insights within these specific fields:
     
    **Software Development | Data Science and Analytics | Information Technology | Cybersecurity | UX/UI Design | Project Management | Quality Assurance and Testing**
+   
      1. Software Development:
    	 - Software Engineer
   	 - Web Developer
