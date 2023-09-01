@@ -25,11 +25,63 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
 ---
 
 
-### Collecting and Extracting data needed for cleaning
+### Collecting and Extracting Data 
 
- - Used filter tool within COLUMN C (What industry do you work in?) to filter out “Computing Or Tech” Jobs and searched for key words such as “comp” and “tech” using filter to add any jobs that could be generally categorized within the same column considering free form/string was the data type used for this field.
- - Used filter tool within COLUMN K (What country do you work in?) to find jobs within the United States. This column was also free form text, so every possibility  (U.S., US, USA, United States, U.S.A., The United States, etc.) had to be manually found and considered.
+ - Used filter tool within COLUMN C (What industry do you work in?) to find “Computing Or Tech” Jobs and searched for key words such as “comp” and “tech” using filter to add any jobs that could be generally categorized within the same column considering the "Other:" checkbox allowed for string data type.
+ - Used filter tool within COLUMN K (What country do you work in?) to find jobs within the United States. This column was also free form/string data, so every possibility  (U.S., US, USA, United States, U.S.A., The United States, etc.) had to be manually found and considered.
  - Used filter tool within COLUMN H (Please indicate the currency) to find all "USD" to make sure people who work from another country remotely, yet work for a company in the United States are included.
+ - Exported subset of data onto new sheet called "US Tech Jobs Working Sheet"
+
+
+### Data Cleaning Process
+
+ - Removed duplicates
+ - Edited column names to make more readable
+ - Job Title (REVISED): Used UPPER function
+ - Job Type (ADDED COLUMN):
+    - Our client wanted us to find key insights within these specific fields:
+  
+* Software Development:
+    * Software Engineer
+    * Web Developer
+    * Mobile App Developer
+    * Front-end Developer
+    * Back-end Developer
+    * Full-stack Developer
+    * Game Developer
+    * DevOps Engineer
+* 		Data Science and Analytics:
+    * Data Scientist
+    * Data Analyst
+    * Business Intelligence (BI) Analyst
+    * Machine Learning Engineer
+    * Data Engineer
+    * Database Administrator (DBA)
+* 		Information Technology
+    * IT Support Specialist
+    * Systems Administrator
+    * Network Administrator
+    * IT Help Desk Technician
+    * Cloud Engineer
+    * Information Security Analyst
+* 		Cybersecurity:
+    * Cybersecurity Analyst
+    * Penetration Tester (Ethical Hacker)
+    * Security Operations Center (SOC) Analyst
+    * Information Security Manager
+* 		UX/UI Design:
+    * UX Designer (User Experience Designer)
+    * UI Designer (User Interface Designer)
+    * Interaction Designer
+    * User Researcher
+* 		Project Management:
+    * IT Project Manager
+    * Agile Project Manager
+    * Scrum Master
+* 		Quality Assurance and Testing:
+    * Quality Assurance (QA) Engineer
+    * Software Tester
+    * Test Automation Engineer
 
 
 
