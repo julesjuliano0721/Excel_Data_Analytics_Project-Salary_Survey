@@ -42,46 +42,46 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
     - Our client wanted us to find key insights within these specific fields:
   
      1. Software Development:
-       * Software Engineer
-       * Web Developer
-       * Mobile App Developer
-       * Front-end Developer
-       * Back-end Developer
-       * Full-stack Developer
-       * Game Developer
-       * DevOps Engineer
+   	 - Software Engineer
+  	 - Web Developer
+      	 - Mobile App Developer
+     	 - Front-end Developer
+   	 - Back-end Developer
+      	 - Full-stack Developer
+     	 - Game Developer
+      	 - DevOps Engineer
     2.	Data Science and Analytics:
-       * Data Scientist
-       * Data Analyst
-       * Business Intelligence (BI) Analyst
-       * Machine Learning Engineer
-       * Data Engineer
-       * Database Administrator (DBA)
+      	 - Data Scientist
+       	 - Data Analyst
+       	 - Business Intelligence (BI) Analyst
+       	 - Machine Learning Engineer
+       	 - Data Engineer
+       	 - Database Administrator (DBA)
     3.	Information Technology
-       * IT Support Specialist
-       * Systems Administrator
-       * Network Administrator
-       * IT Help Desk Technician
-       * Cloud Engineer
-       * Information Security Analyst
+       	 - IT Support Specialist
+       	 - Systems Administrator
+       	 - Network Administrator
+       	 - IT Help Desk Technician
+       	 - Cloud Engineer
+       	 - Information Security Analyst
     4.	Cybersecurity:
-       * Cybersecurity Analyst
-       * Penetration Tester (Ethical Hacker)
-       * Security Operations Center (SOC) Analyst
-       * Information Security Manager
+       	 - Cybersecurity Analyst
+       	 - Penetration Tester (Ethical Hacker)
+       	 - Security Operations Center (SOC) Analyst
+       	 - Information Security Manager
     5.	UX/UI Design:
-       * UX Designer (User Experience Designer)
-       * UI Designer (User Interface Designer)
-       * Interaction Designer
-       * User Researcher
+       	 - UX Designer (User Experience Designer)
+       	 - UI Designer (User Interface Designer)
+       	 - Interaction Designer
+       	 - User Researcher
     6.	Project Management:
-       * IT Project Manager
-       * Agile Project Manager
-       * Scrum Master
-	   7.	Quality Assurance and Testing:
-       * Quality Assurance (QA) Engineer
-       * Software Tester
-       * Test Automation Engineer
+       	 - IT Project Manager
+       	 - Agile Project Manager
+       	 - Scrum Master
+    7. Quality Assurance and Testing:
+       	 - Quality Assurance (QA) Engineer
+       	 - Software Tester
+       	 - Test Automation Engineer
 
 
 
