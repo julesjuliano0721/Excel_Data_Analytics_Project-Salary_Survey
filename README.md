@@ -1,14 +1,14 @@
-# Excel Data Analytics Project: US Tech Job Salaries 💵 💻
+# 💵 💻Excel Data Analytics Project: US Tech Job Salaries 💵 💻
 
 ![ustechcareerwallpaper](https://github.com/julesjuliano0721/Excel_Data_Analytics_Project-Salary_Survey/assets/136859698/234f88fb-beb0-47e1-8252-1a65ed69e347)
 
-## Scenario
+## Scenario 💬
 You are a junior data analyst doing freelance work for AskAManager, an online blog that addresses issues regarding management, interviews, and workplace matters. They ask you to analyze a salary survey response form they released online for people who view their website to fill out. For this specific project, your client wants you to provide key insights within careers in the field of technology in the United States.
 
 Link to Survey Response Form: [how much money do you make?](https://www.askamanager.org/2021/04/how-much-money-do-you-make-4.html)
 
 
-## Business Tasks
+## Business Tasks 🖊
 
  - Collect subset of data that categorizes as a career in technology in the US.
  - Clean data
@@ -25,7 +25,7 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
 ---
 
 
-### Collecting and Extracting Data 
+### Collecting and Extracting Data 👨‍💻
 
  - Used filter tool within COLUMN C (What industry do you work in?) to find “Computing Or Tech” Jobs and searched for key words such as “comp” and “tech” using filter to add any jobs that could be generally categorized within the same column considering the "Other:" checkbox allowed for string data type.
  - Used filter tool within COLUMN K (What country do you work in?) to find jobs within the United States. This column was also free form/string data, so every possibility  (U.S., US, USA, United States, U.S.A., The United States, etc.) had to be manually found and considered.
@@ -33,7 +33,7 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
  - Exported subset of data onto new sheet called "US Tech Jobs Working Sheet"
 
 
-### Data Cleaning Process
+### Data Cleaning Process 🧹
 
  - Removed duplicates
  - Edited column names to make more readable
