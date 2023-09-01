@@ -38,8 +38,6 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
  - Removed duplicates
  - Edited column names to make more readable
  - Job Title (REVISED): Used UPPER function
- ___
- 
  - Job Type (ADDED COLUMN):
 
     - Our client wanted us to find key insights within these specific fields and their corresponding job titles:    
