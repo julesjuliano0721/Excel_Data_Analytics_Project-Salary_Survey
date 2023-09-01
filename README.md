@@ -91,7 +91,33 @@ ___
      - Added new column called "Job Title" and used filter tool to manually match each type of tech job to the corresponding field that our client provided for us
      - LIMITATIONS: Job titles and roles in the tech industry can vary from one company to another, and new roles may emerge as technology continues to advance. Keep in mind that these categories may overlap, and there are many sub-specializations within each category. Also, to maintain the integrity and quality of the data, only the sub-specializations specifically provided for us above were used, so this left a lot of jobs uncategorized within the dataset.
 
+ - "Annual Salary" Column
+    - Changed format to currency
+    - Handling Outliers:
+      - **Less than $15k**
+         - investigated and deleted rows that contained salaries less than because the annual salary for people living on minimum wage is about $15k    
+      - **Between $15-$30k**
+         - Factors/issues considered when deleting outliers:
+            1. median salary of job
+            2. additional external source of income (not full-time work hours inputed as instructed by response form)
+            3. human error (forgot to add additional zero to income)
+            4. level of job title (trainee, assistant would make more sense for a lower-based income compared to a software developer)
 
+          
+ -  "Experience in Field of Work" Column
+    - Used "Find and Replace" Tool to clean up structure of each option
+
+___
+
+ - Cleaning and Analyzing "Race/Ethincity (Choose all that apply:):" Column
+    - separated each race into different columns
+    - used COUNTIF Function to calculate each instance a race was chosen
+    - Calculated the sum and percentage of each race and created a table:
+  
+      
+      <img width="438" alt="RaceEthnicityTable" src="https://github.com/julesjuliano0721/Excel_Data_Analytics_Project-Salary_Survey/assets/136859698/83a8c5fe-d4e3-4509-9c63-b14690c90c57">
+
+   
 
 
 
