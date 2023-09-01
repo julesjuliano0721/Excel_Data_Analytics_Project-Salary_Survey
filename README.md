@@ -107,8 +107,6 @@ ___
  -  "Experience in Field of Work" Column
     - Used "Find and Replace" Tool to clean up structure of each option
 
-___
-
  - Cleaning and Analyzing "Race/Ethincity (Choose all that apply:):" Column
     - separated each race into different columns
     - used COUNTIF Function to calculate each instance a race was chosen
