@@ -1,4 +1,4 @@
-# 💵 💻Excel Data Analytics Project: US Tech Job Salaries 💵 💻
+#  💻Excel Data Analytics Project: US Tech Job Salaries 💵 
 
 ![ustechcareerwallpaper](https://github.com/julesjuliano0721/Excel_Data_Analytics_Project-Salary_Survey/assets/136859698/234f88fb-beb0-47e1-8252-1a65ed69e347)
 
