@@ -122,7 +122,7 @@ ___
  - Middle-Aged people (35-54 years old) tend to have highest annual salaries compared to other age groups.
 
 ## 🤔 LIMITATIONS/Issues addressing Analysis and with data 🤔
-  1. 84% of responses were from the Race/Ethnicity "White", so the reliability of this data seemed compromised and raised concerns for bias.
+  1. 84% of responses were from the Race/Ethnicity "White", so the reliability of this data seemed compromised in certain aspects and raised concerns for bias.
   2. Lack of general amount of data or representation within in certain fields of data.
   3. String type data/Free form text-entry can be difficult to clean/analyze with utmost accuracy to maintain integrity within dataset.
 
