@@ -12,7 +12,7 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
 
  - Collect subset of data that categorizes as a career in technology in the US.
  - Clean data
- - Analyze factors that affect salary such as:
+ - Create a dashboard that contributes to understanding factors that affect salary such as:
    
    1. Gender
    2. Type of Tech Job 
@@ -22,12 +22,13 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
    6. Race/Ethnicity
 
 
+
 ---
 
 
 ### 👨‍💻 Collecting and Extracting Data 👨‍💻
 
- - Used filter tool within COLUMN C (What industry do you work in?) to find “Computing Or Tech” Jobs and searched for key words such as “comp” and “tech” using filter to add any jobs that could be generally categorized within the same column considering the "Other:" checkbox allowed for string data type.
+ - Used filter tool within COLUMN C (What industry do you work in?) to find “Computing Or Tech” Jobs and searched for key words such as “comp” and “tech” using filter to add any jobs that could be generally categorized within the same column, considering the "Other:" checkbox allowed for string data type.
  - Used filter tool within COLUMN K (What country do you work in?) to find jobs within the United States. This column was also free form/string data, so every possibility  (U.S., US, USA, United States, U.S.A., The United States, etc.) had to be manually found and considered.
  - Used filter tool within COLUMN H (Please indicate the currency) to find all "USD" to make sure people who work from another country remotely, yet work for a company in the United States are included.
  - Exported subset of data onto new sheet called "US Tech Jobs Working Sheet"
@@ -113,6 +114,21 @@ ___
   
       
       <img width="438" alt="RaceEthnicityTable" src="https://github.com/julesjuliano0721/Excel_Data_Analytics_Project-Salary_Survey/assets/136859698/83a8c5fe-d4e3-4509-9c63-b14690c90c57">
+
+ - Finally, all the relevant columns for our analysis were exported to a new sheet called "US Tech Jobs (CLEAN)".
+
+### 🕵️‍♂️ Analysis/Findings 🕵️‍♂️
+
+ - Software Engineering/Development was the highest paid field in technology overall
+ - Information Technology was the lowest paid field in tehcnology overall
+ - Men typically have higher annual salaries than woman
+ - A higher level of education and more experience in the field of work typically correlated with a higher annual salary
+ - Middle-Aged people (35-54 years old) tend to have highest annual salaries compared to other age groups.
+
+### 🤔 LIMITATIONS/Issues addressing Analysis and with data 🤔
+  1. 84% of responses were from the Race/Ethnicity "White", so the reliability of this data seemed compromised and raised concerns for bias.
+  2. Lack of general amount of data or representation within in certain fields of data.
+  3. String type data/Free form text-entry can be difficult to clean/analyze with utmost accuracy to maintain integrity within dataset.
 
    
 
