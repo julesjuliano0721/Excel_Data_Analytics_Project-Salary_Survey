@@ -22,11 +22,7 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
    6. Race/Ethnicity
 
 
-
----
-
-
-### 👨‍💻 Collecting and Extracting Data 👨‍💻
+## 👨‍💻 Collecting and Extracting Data 👨‍💻
 
  - Used filter tool within COLUMN C (What industry do you work in?) to find “Computing Or Tech” Jobs and searched for key words such as “comp” and “tech” using filter to add any jobs that could be generally categorized within the same column, considering the "Other:" checkbox allowed for string data type.
  - Used filter tool within COLUMN K (What country do you work in?) to find jobs within the United States. This column was also free form/string data, so every possibility  (U.S., US, USA, United States, U.S.A., The United States, etc.) had to be manually found and considered.
@@ -34,7 +30,7 @@ Link to Survey Response Form: [how much money do you make?](https://www.askamana
  - Exported subset of data onto new sheet called "US Tech Jobs Working Sheet"
 
 
-### 🧹 Data Cleaning Process 🧹
+## 🧹 Data Cleaning Process 🧹
 
  - Removed duplicates
  - Edited column names to make more readable
@@ -117,7 +113,7 @@ ___
 
  - Finally, all the relevant columns for our analysis were exported to a new sheet called "US Tech Jobs (CLEAN)".
 
-### 🕵️‍♂️ Analysis/Findings 🕵️‍♂️
+## 🕵️‍♂️ Analysis/Findings 🕵️‍♂️
 
  - Software Engineering/Development was the highest paid field in technology overall
  - Information Technology was the lowest paid field in tehcnology overall
@@ -125,7 +121,7 @@ ___
  - A higher level of education and more experience in the field of work typically correlated with a higher annual salary
  - Middle-Aged people (35-54 years old) tend to have highest annual salaries compared to other age groups.
 
-### 🤔 LIMITATIONS/Issues addressing Analysis and with data 🤔
+## 🤔 LIMITATIONS/Issues addressing Analysis and with data 🤔
   1. 84% of responses were from the Race/Ethnicity "White", so the reliability of this data seemed compromised and raised concerns for bias.
   2. Lack of general amount of data or representation within in certain fields of data.
   3. String type data/Free form text-entry can be difficult to clean/analyze with utmost accuracy to maintain integrity within dataset.
